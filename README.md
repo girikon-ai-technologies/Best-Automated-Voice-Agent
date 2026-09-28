@@ -1,0 +1,2 @@
+# Best-Automated-Voice-Agent
+Girikon.ai offers an automated voice agent that helps teams manage business calls more efficiently. GirikVoice can answer questions, qualify leads, book appointments, send follow-ups, and hand calls to human agents when needed. It connects with CRM systems and existing workflows. Girikon.ai supports practical voice AI adoption.
